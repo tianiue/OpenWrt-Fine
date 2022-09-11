@@ -20,6 +20,7 @@ git clone https://github.com/tianiue/luci-packages.git package/luci-packages
 git clone https://github.com/tianiue/openwrt-alist.git package/openwrt-alist
 git clone https://github.com/linkease/nas-packages-luci.git package/nas-packages-luci
 git clone https://github.com/linkease/nas-packages.git package/nas-packages
+git clone https://github.com/linkease/istore.git package/istore
 git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall-luci
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
 git clone https://github.com/fw876/helloworld.git package/helloworld
